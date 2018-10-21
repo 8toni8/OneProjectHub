@@ -1,2 +1,1 @@
-print("OneTest11")
-print("OneTest2")
+print("OneTest")
